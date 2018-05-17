@@ -1,0 +1,127 @@
+body{
+	font:15px;
+	margin:0;
+	padding:0;
+	background-color:#eeeed1;
+}
+.container{
+    width:80%;
+	height:150px;
+	margin:auto;
+	overflow:hidden;
+} 
+.container img{
+	width:270px;
+	height:160px;
+}
+#menu{
+	list-style:none;
+	float:right;	
+	margin-top:75px;
+}
+#menu li{
+	float: left;
+}
+#menu li a{
+	color:#000000;
+    text-decoration:none;
+    margin: 5px;
+    padding: 10px 20px;
+	text-shadow:1px 4px 2px #8b2252;
+}
+#menu li a:hover{ 
+	color:#8b2252; 
+}
+.ustfotoğraf{
+	width:100%;
+	height:260px;
+}
+.ustfotoğraf img{
+	width:90%;
+	height:240px;
+	margin-left:90px;
+	margin-right:90px;
+	margin-bottom:30px;
+}
+.ayrac{
+	width:100%;
+	height:100px;
+	margin-left:560px;
+	overflow:hidden;
+}
+.ayrac img{
+	width:80px;
+	height;60px;
+}
+.ayrac a{
+	text-decoration:none;
+}
+.icerik{
+    width:500px;
+	height:650px;
+	float:left;
+	padding:10px;
+	margin:5px;
+	margin-right:30px;
+	margin-left:95px;
+	border:1px solid #000;
+}
+.icerik img{
+    width:500px;
+	height:350px;
+}
+.icerik h2{
+	font-family:inconsolata;
+}
+.icerik h2 a{
+	font-family:inconsolata;
+	color:#8b2252;
+	text-decoration:none;
+}
+.icerik p{
+	font-family:inconsolata;
+	color:#000000;
+	text-align:justify;
+	text-indent:15px;
+}
+.icerik button{
+	float:right;
+}
+.icerik button a{
+	font-family:inconsolata;
+	color:#8b2252;
+	text-decoration:none;
+	font-weight:bold;
+}
+.paylas{
+	width:400px;
+	height:150px;
+	margin-bottom:25px;
+	margin-left:95px;
+	padding-bottom:20px;
+}
+.paylas h4{
+	font-family:inconsolata;
+	color:#8b2252;
+	margin-bottom:20px;
+}
+.paylas button{
+	margin-bottom:10px;
+}
+.alt{
+	width:550px;
+	height:150px;
+	float:right;
+	margin-top:150px;
+}
+.alt img{
+	float:right;
+	padding:5px;
+	margin-top:90px;
+}
+.alt p{
+	float:right;
+	font-family:inconsolata;
+	margin-top:100px;
+	margin-right:40px;
+}
